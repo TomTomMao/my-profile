@@ -114,10 +114,10 @@ params:
       showOnScrollUp : true
     menus:
       disableAbout: false
-      disableExperience: false
+      disableExperience: true
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -176,7 +176,7 @@ params:
 
   # Voluntary Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
@@ -266,8 +266,8 @@ params:
             - Covid Society Volunteer
               I guided elderly individuals through the process of scanning QR codes to register COVID-19 test samples, contributing to smooth and accurate registration during testing.
               I assisted in distributing and allocating testing kits, ensuring efficient logistics during testing operations, supporting the setup, and ensuring a conducive testing environment.
-          Welcome Mentor
-            - I assisted new arrivals as they passed through a body temperature testing room on welcoming days, provided support in obtaining trolleys for transporting belongings and facilitated the delivery of suitcases to the designated book pickup area, ensuring a smooth and convenient transition for incoming students.
+          - Welcome Mentor
+              I assisted new arrivals as they passed through a body temperature testing room on welcoming days, provided support in obtaining trolleys for transporting belongings and facilitated the delivery of suitcases to the designated book pickup area, ensuring a smooth and convenient transition for incoming students.
         featuredLink:
           enable: true
           name: "My academic record"
@@ -276,10 +276,10 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
+      - title: Shanghai Outstanding Graduates
         content: I solved all problems with optimal solution.
         url: https://example.com
         image: /images/achievment.jpg
@@ -301,16 +301,20 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: iBankEx
+        content: A Visual analysis tool for bank transaction data
+        image: /images/projects/ibankex.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: http://ibankex.wentaom.com/dashboard
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "React"
+          - "FastAPI"
+          - "Pandas"
+          - "Python"
+          - "TypeScript"
+          - "Docker"
+          - "D3"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
