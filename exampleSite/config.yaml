@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Wentao Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -174,7 +174,7 @@ params:
         - "SQL"
         
 
-  # Experience
+  # Voluntary Experience
   experience:
     enable: true
     # title: "Custom Name"
@@ -245,42 +245,34 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Computer Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Nottingham, UK"
+          url: "https://www.nottingham.ac.uk/"
+        date: "2022 - 2023"
+        GPA: "78 out of 100"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+            - Learning Bible in a local family with a big group of people.
+            - Hosting Chinese food for 10+ oversea students.
+      - title: "Bachelor of Management in Marketing"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Sanda University, Shanghai"
+          url: "https://www.sandau.edu.cn/english/"
+        date: "2020 - 2022"
+        GPA: "3.8 out of 4"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Covid Society Volunteer
+              I guided elderly individuals through the process of scanning QR codes to register COVID-19 test samples, contributing to smooth and accurate registration during testing.
+              I assisted in distributing and allocating testing kits, ensuring efficient logistics during testing operations, supporting the setup, and ensuring a conducive testing environment.
+          Welcome Mentor
+            - I assisted new arrivals as they passed through a body temperature testing room on welcoming days, provided support in obtaining trolleys for transporting belongings and facilitated the delivery of suitcases to the designated book pickup area, ensuring a smooth and convenient transition for incoming students.
         featuredLink:
           enable: true
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+
 
   # Achievements
   achievements:
