@@ -365,11 +365,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/TomTomMao
+      linkedin: https://www.linkedin.com/in/wentao-mao-445a64282/
+      # twitter: https://twitter.com
+      instagram: https://www.instagram.com/tom_mao1/
+      # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
