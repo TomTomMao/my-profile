@@ -306,7 +306,7 @@ params:
         image: /images/projects/ibankex.png
         featured:
           name: Demo
-          link: http://ibankex.wentaom.com/dashboard
+          link: http://moneyvis.wentaom.com/dashboard
         badges:
           - "React"
           - "FastAPI"
@@ -314,41 +314,27 @@ params:
           - "Python"
           - "TypeScript"
           - "Docker"
-          - "D3"
+          - "D3.js"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/TomTomMao/summer-project-msc
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=TQSMgKitDu4&t=9s
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: iEmergencyEx
+        content: An interactive visualisation tool for comparing the damage conditions caused by earthquakes in different regions and finding the trend of damage.
+        image: /images/projects/iEmergencyEx.jpg
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://iemergencyex.netlify.app
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "html"
+          - "css"
+          - "JavaScript"
+          - "D3.js"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
