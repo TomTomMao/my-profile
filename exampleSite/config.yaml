@@ -308,13 +308,13 @@ params:
           name: Demo
           link: http://moneyvis.wentaom.com/dashboard
         badges:
-          - "React"
-          - "FastAPI"
-          - "Pandas"
-          - "Python"
-          - "TypeScript"
-          - "Docker"
-          - "D3.js"
+          - "react"
+          - "fastapi"
+          - "pandas"
+          - "python"
+          - "typescript"
+          - "docker"
+          - "d3.js"
         links:
           - icon: fab fa-github
             url: https://github.com/TomTomMao/summer-project-msc
@@ -322,6 +322,9 @@ params:
           - icon: fab fa-youtube
             title: demo video
             url: https://www.youtube.com/watch?v=TQSMgKitDu4&t=9s
+          - icon: fa-solid fa-graduation-cap
+            title: dissertation
+            url: https://www.cs.nott.ac.uk/blaramee/teaching/msc/thesis/mao23thesis.pdf
 
       - title: iEmergencyEx
         content: An interactive visualisation tool for comparing the damage conditions caused by earthquakes in different regions and finding the trend of damage.
@@ -332,12 +335,15 @@ params:
         badges:
           - "html"
           - "css"
-          - "JavaScript"
-          - "D3.js"
+          - "javascript"
+          - "d3.js"
         links:
           - icon: fab fa-github
+            title: source code
             url: https://github.com/gurusabarish/converter
-
+          - icon: fa-solid fa-user
+            title: user mannual
+            url: https://1drv.ms/b/s!AmZngIbKOwnZhoUhckI2zD_YpQmFeg?e=amvZFp
   #Contact
   contact:
     enable: true
