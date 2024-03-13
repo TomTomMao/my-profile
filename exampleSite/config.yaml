@@ -318,12 +318,14 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/TomTomMao/summer-project-msc
+            title: source code
           - icon: fab fa-youtube
+            title: demo video
             url: https://www.youtube.com/watch?v=TQSMgKitDu4&t=9s
 
       - title: iEmergencyEx
         content: An interactive visualisation tool for comparing the damage conditions caused by earthquakes in different regions and finding the trend of damage.
-        image: /images/projects/iemergencyx.jpg
+        image: /images/projects/iemergencyx.png
         featured:
           name: Demo
           link: https://iemergencyex.netlify.app
