@@ -21,14 +21,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
+# how to remove content https://discourse.gohugo.io/t/disabling-content/34417
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
     - identifier: gallery
       name: Gallery
       title: Blog posts
