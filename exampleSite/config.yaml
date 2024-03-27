@@ -248,8 +248,7 @@ params:
         GPA: "78 out of 100"
         content: |-
           Extracurricular Activities
-            - Learning Bible in a local family with a big group of people.
-            - Hosting Chinese food for 10+ oversea students.
+            - CGVC web master
       - title: "Bachelor of Management in Marketing"
         school:
           name: "Sanda University, Shanghai"
@@ -259,10 +258,10 @@ params:
         content: |-
           Extracurricular Activities
             - Covid Society Volunteer
-              I guided elderly individuals through the process of scanning QR codes to register COVID-19 test samples, contributing to smooth and accurate registration during testing.
-              I assisted in distributing and allocating testing kits, ensuring efficient logistics during testing operations, supporting the setup, and ensuring a conducive testing environment.
+              - I guided elderly individuals through the process of scanning QR codes to register COVID-19 test samples, contributing to smooth and accurate registration during testing.
+              - I assisted in distributing and allocating testing kits, ensuring efficient logistics during testing operations, supporting the setup, and ensuring a conducive testing environment.
           - Welcome Mentor
-              I assisted new arrivals as they passed through a body temperature testing room on welcoming days, provided support in obtaining trolleys for transporting belongings and facilitated the delivery of suitcases to the designated book pickup area, ensuring a smooth and convenient transition for incoming students.
+              - I assisted new arrivals as they passed through a body temperature testing room on welcoming days, provided support in obtaining trolleys for transporting belongings and facilitated the delivery of suitcases to the designated book pickup area, ensuring a smooth and convenient transition for incoming students.
         featuredLink:
           enable: true
           name: "My academic record"
