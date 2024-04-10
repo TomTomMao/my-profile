@@ -249,6 +249,7 @@ params:
         content: |-
           Extracurricular Activities
             - CGVC web master
+            - Updating the content of CGVC conference website.
       - title: "Bachelor of Management in Marketing"
         school:
           name: "Sanda University, Shanghai"
@@ -263,7 +264,7 @@ params:
           - Welcome Mentor
               - I assisted new arrivals as they passed through a body temperature testing room on welcoming days, provided support in obtaining trolleys for transporting belongings and facilitated the delivery of suitcases to the designated book pickup area, ensuring a smooth and convenient transition for incoming students.
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
 
