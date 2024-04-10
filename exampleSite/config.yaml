@@ -120,8 +120,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Wentao."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I am a driven, self-motivated, and curious individual, with a passion to change the world and make a positive difference."
+    content: "I am a creative thinker, who like to think outside the box and work to a high standard. I am approachable and able to support my fellow team members with solutions to various scenarios. I push myself to continually learn new things and new ways of working. I am seeking an employer with a similar progressive ethos and values."
     image: /images/hero.png
     bottomImage:
       enable: true
@@ -130,7 +130,7 @@ params:
       enable: false
       name: "Resume"
       url: "#"
-      download: true
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
